@@ -1,0 +1,1 @@
+studioNEST Brigks is a collection of kinematic solvers for Autodesk Softimage. With brigks you can build very efficient rigs that don't require to setup overly complex object hierarchies. Since the source code of the kinematics solvers is provided, implementations of matching kinematic solvers can be achieved for other packages as well as standalone applications.
